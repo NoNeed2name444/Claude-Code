@@ -1,0 +1,7 @@
+# Processed 3D assets live in Git LFS (see docs/phase1/licensing.md for hosting of region packs).
+*.usdz filter=lfs diff=lfs merge=lfs -text
+*.usdc filter=lfs diff=lfs merge=lfs -text
+*.glb  filter=lfs diff=lfs merge=lfs -text
+*.blend filter=lfs diff=lfs merge=lfs -text
+*.nii.gz filter=lfs diff=lfs merge=lfs -text
+*.nrrd filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,9 @@
+numpy
+scipy
+trimesh
+pymeshlab
+fast-simplification
+manifold3d
+scikit-image
+nibabel
+usd-core

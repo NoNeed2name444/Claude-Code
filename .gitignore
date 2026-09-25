@@ -1,0 +1,9 @@
+# Raw downloads and intermediate meshes are rebuilt by the pipeline; never committed.
+pipeline/work/
+pipeline/cache/
+*.pyc
+__pycache__/
+.DS_Store
+# XcodeGen output
+app/*.xcodeproj/
+app/build/
